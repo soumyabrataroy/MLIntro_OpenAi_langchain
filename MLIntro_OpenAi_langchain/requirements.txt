@@ -1,0 +1,4 @@
+langchain
+Openai
+Streamlit
+langchain-openai==0.0.5
